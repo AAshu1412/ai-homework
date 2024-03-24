@@ -20,7 +20,7 @@
 AI Chatbot is a straightforward chatbot designed to provide solutions to various queries using the Gemini API. Whether you're seeking assistance with a problem or seeking information, this chatbot aims to deliver prompt and helpful responses.
 
 <p align="center">
-  <img src="./readme_img.png" alt="Waste-to-Energy Platform" width="1000">
+  <img src="./readme_img.png" alt="AI Chatbot" width="1000">
 </p>
 
 
